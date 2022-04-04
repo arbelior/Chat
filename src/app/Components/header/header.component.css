@@ -1,0 +1,18 @@
+.header
+{
+    text-align: center;
+}
+
+.active
+{
+    font-weight: bold;
+    color: white;
+}
+
+.footer
+{
+    text-align: center;
+    font-size: larger;
+    
+}
+

@@ -1,0 +1,22 @@
+html,body
+{
+    height: 100%;
+    margin: 0%;
+    padding: 0%;
+    background-color: lightblue;
+    font-size: large;
+
+}
+
+a
+{
+    color: blue;
+    padding: 8px;
+    text-decoration: none;
+
+}
+
+a:hover
+{
+  font-weight: bold;
+}

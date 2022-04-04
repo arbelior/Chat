@@ -1,0 +1,64 @@
+.Container
+{
+    height: 80%;
+    width: 100%;
+    margin: 0%;
+    text-align: center;
+
+}
+
+.header
+{
+    display: block;
+    height: 10%;
+    width: 100%;
+}
+
+.main
+{
+    display: inline-block;
+    height: 70%;
+    width: 100%;
+
+}
+
+table
+{
+    padding: 5px;
+    margin: auto;
+}
+
+thead
+{
+    font-size: x-large;
+    background-color: lightgrey;
+    position: sticky;
+    top: 0%;
+}
+
+tbody
+{
+    overflow-y: auto;
+    font-size: large;
+
+}
+
+th,td{
+    border: 1px solid black;
+    text-align: left;
+    padding: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
